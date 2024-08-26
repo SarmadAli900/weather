@@ -12,7 +12,7 @@ CSS: Styling and layout, ensuring a visually appealing design.
 JavaScript: Fetching data from the weather API, handling user interactions, and dynamically updating the UI.
 
 Installation
-Clone the repository: git clone https://github.com/yourusername/weather-app.git
+Clone the repository: git clone https://github.com/SarmadAli900/weather-app.git
 Navigate into the project directory: cd weather-app
 Open index.html in your web browser to view the app.
 
